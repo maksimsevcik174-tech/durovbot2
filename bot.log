@@ -1,0 +1,5 @@
+2025-11-13 19:29:06,593 - root - INFO - ✅ База данных инициализирована
+2025-11-13 19:29:09,164 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-13 19:29:09,164 - telegram.ext._application - INFO - Application started
+2025-11-13 19:30:34,129 - root - ERROR - ❌ Ошибка запуска нового бота: There is no current event loop in thread 'Thread-1 (start_new_bot)'.
+2025-11-13 19:34:07,225 - root - ERROR - ❌ Ошибка в show_gifts_menu: Message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
